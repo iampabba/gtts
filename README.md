@@ -1,6 +1,6 @@
 # gtts
 
-This code is used to generate audio mp3 files for the text provided in the text_file arr
+This code is used to generate audio mp3 files for the text provided in the text_file array in tts_api_function.py
  the audio mp3 files are stored in the same folder
 
 use the below language codes
